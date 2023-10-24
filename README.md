@@ -53,7 +53,11 @@ steps for creating VM
 2. Click on create 
 ![Alt text](image-7.png)
 
-2. Select Same RG(Resource Group)
+3. Select Same RG(Resource Group)
 then name your VM 
 
 ![Alt text](image-8.png)
+
+4. After creation VM, this message will popup 
+
+![Alt text](image-9.png)
